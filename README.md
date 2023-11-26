@@ -14,7 +14,7 @@ This repository contains information about movies hosted by the movie database.
 + **Feature 6 - Favorites:** Displays movies that the user has added to their favorites.
 + **Feature 7 - Movie Details:** Provides details about specific movies.
 + **Feature 8 - Movie Cast:** Displays cast and crew information for specific movies.
-+ **Feature 9 - Movie Favorites:** Allows users to view their favorite movies.
+
 
 ## Requirements for Automated Testing
 + Node.js
